@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AmieTorin
+- 👋 Hi, I’m @AmieTorin - An anagram for my name
 - 👀 I’m interested in Data Analytics and UX/UI Design 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on an assignment with MangoTTech
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me : Search for Toni-Marie Noel on LinkedIn
 
 <!---
